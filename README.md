@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi, my name is Michel Pierce Tahya. You can call me Michel. 👋
 
 <!--
 **MichelPT/MichelPT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+asdasdasdasdasdasdasdasd
 
 Here are some ideas to get you started:
 
