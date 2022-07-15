@@ -8,11 +8,11 @@
 - 😄 Pronouns: Him.
 - ⚡ Fun fact: Besides programming, I also like to play video games and play music.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiMichelPT=anuraghazra&show_icons=true&theme=synthwave)
 
+
+
+<img align="left" alt="MichelPT's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&$hide_border=true$theme=radical" />
 <!--
-<img align="left" alt="MichelPT's Github Stats" src="https://github-readme-stats.vercel.app/apiMichel=anuraghazra&show_icons=true&$hide_border=true$theme=radical" />
-
 
 
 
