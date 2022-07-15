@@ -1,5 +1,9 @@
 ### Hi, my name is Michel Pierce Tahya. You can call me Michel. 👋
 
+
+---
+
+
 - 🔭 I’m currently working on my own Flutter and Kotlin project.
 - 🌱 I’m currently learning about programming, especially mobile related, and japanese language.
 - 👯 I’m looking to collaborate on anyone.
@@ -9,9 +13,12 @@
 - ⚡ Fun fact: Besides programming, I also like to play video games and play music.
 
 
+---
 
 
-<img align="left" alt="MichelPT's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MichelPT&show_icons=true&$hide_border=true$theme=synthwave" />
+<img align="left" alt="MichelPT's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MichelPT&show_icons=true&$hide_border=true$?theme=synthwave" />
+
+
 <!--
 
 
