@@ -11,7 +11,7 @@
 
 
 
-<img align="left" alt="MichelPT's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MichelPT&show_icons=true&$hide_border=true$theme=radical" />
+<img align="left" alt="MichelPT's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MichelPT&show_icons=true&$hide_border=true$theme=synthwave" />
 <!--
 
 
