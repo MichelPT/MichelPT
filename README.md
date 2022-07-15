@@ -14,12 +14,20 @@
 
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichelPT&theme=dark&show_icons=true)
 
-<img align="left" alt="MichelPT's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MichelPT&show_icons=true&$hide_border=true$?theme=synthwave" />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichelPT&theme=highcontast&show_icons=true$hide_border=true$border_radius=15)
+
+
+---
+
 
 
 <!--
+<img align="left" alt="MichelPT's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MichelPT&show_icons=true&$hide_border=true$?theme=synthwave" />
+
+
+
 
 
 
