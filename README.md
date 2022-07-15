@@ -16,7 +16,7 @@
 ---
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichelPT&theme=highcontast&show_icons=true$hide_border=true$border_radius=15)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichelPT&theme=radical&show_icons=true$hide_border=true$border_radius=15)
 
 
 ---
