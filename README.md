@@ -8,13 +8,13 @@
 - 😄 Pronouns: Him/They
 - ⚡ Fun fact: Besides programming, I also like to play video games and play music
 
----
 
+<!--
 <img align="left" alt="MichelPT's Github Stats" src="https://github-readme-stats.vercel.app/apiMichel=anuraghazra&show_icons=true&$hide_border=true$theme=radical" />
 
 
 
-<!--
+
 **MichelPT/MichelPT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 📫 How to reach me: ...
 
