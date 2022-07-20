@@ -37,8 +37,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/michel tahya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michel tahya" height="30" width="40" /></a>
-<a href="https://fb.com/michel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="michel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/michel tahya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Michel Tahya" height="30" width="40" /></a>
+<a href="https://fb.com/michel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="michel pierce tahya" height="30" width="40" /></a>
 <a href="https://instagram.com/@piercetahya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@piercetahya" height="30" width="40" /></a>
 <a href="https://discord.gg/Lycheee#5117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Lycheee#5117" height="30" width="40" /></a>
 </p>
