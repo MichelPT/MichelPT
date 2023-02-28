@@ -4,13 +4,13 @@
 ---
 
 
-- 🔭 I’m currently working on my own Flutter and Kotlin project
-- 🌱 I’m currently learning about programming, especially mobile related, and japanese language
-- 👯 I’m looking to collaborate on anyone
-- 🤔 I’m looking for help with everything about programming because I still need to learn more
-- 💬 Ask me about anything, but don't expect you will get the reply that you want tho
-- 😄 Pronouns: Him
-- ⚡ Fun fact: Besides programming, I also like to play video games and play music
+- 🔭 I’m working on my Flutter and Kotlin project.
+- 🌱 Currently learning about programming and Japanese!
+- 👯 Interested in collaborating.
+- 🤔 Open for any discussion.
+- 💬 Ask me about anything, but don't expect too much!
+- 😄 Pronoun: Him
+- ⚡ Fun fact: Besides programming, I also like to play video games and play music!
 
 
 ---
