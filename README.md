@@ -16,12 +16,6 @@
 ---
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichelPT&theme=highcontrast&show_icons=true$hide_border=true$border_radius=15)
-
-
----
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelPT&layout=compact&theme=highcontrast)
 
 
