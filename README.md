@@ -27,12 +27,6 @@
 
 
 ---
-
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@me) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/michel.gumliketime) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/piercetahya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michel-tahya-802514239)
-
-
----
 <!--
 <img align="left" alt="MichelPT's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MichelPT&show_icons=true&$hide_border=true$?theme=synthwave" />
 
