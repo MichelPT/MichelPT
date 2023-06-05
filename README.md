@@ -4,7 +4,7 @@
 ---
 
 
-- 🔭 I’m working on my Flutter and Kotlin project.
+- 🔭 I’m working on my Flutter project.
 - 🌱 Currently learning about programming and Japanese!
 - 👯 Interested in collaborating.
 - 🤔 Open for any discussion.
