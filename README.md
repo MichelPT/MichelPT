@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m working on my Flutter project.
-- 🌱 Currently learning about programming and Japanese!
+- 🌱 Currently taking a deep dive on mobile dev.
 - 👯 Interested in collaborating.
 - 🤔 Open for any discussion.
 - 💬 Ask me about anything, but don't expect too much!
