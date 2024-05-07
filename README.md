@@ -4,7 +4,7 @@
 ---
 
 
-- 🔭 I’m working on my Flutter project.
+- 🔭 Currently working on my Flutter, Android, and iOS projects.
 - 🌱 Currently taking a deep dive on mobile dev.
 - 👯 Interested in collaborating.
 - 🤔 Open for any discussion.
