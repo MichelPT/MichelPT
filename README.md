@@ -4,12 +4,11 @@
 ---
 
 
-- 🔭 Currently working on my Flutter, Android, and iOS projects.
-- 🌱 Currently taking a deep dive on mobile dev.
+- 🔭 Currently working on Windows Desktop, Mobile App, and AI Projects.
+- 🌱 Currently taking a deep dive into AI development.
 - 👯 Interested in collaborating.
 - 🤔 Open for any discussion.
 - 💬 Ask me about anything, but don't expect too much!
-- 😄 Pronoun: Him
 - ⚡ Fun fact: Besides programming, I also like to play video games and play music!
 
 
